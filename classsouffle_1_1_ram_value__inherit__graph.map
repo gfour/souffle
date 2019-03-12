@@ -1,0 +1,10 @@
+<map id="souffle::RamValue" name="souffle::RamValue">
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_argument.html" title="Access argument of a subroutine. " alt="" coords="5,447,171,612"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_auto_increment.html" title="Counter. " alt="" coords="195,454,391,605"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_element_access.html" title="Access element from the current tuple in a tuple environment. " alt="" coords="415,417,614,641"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_intrinsic_operator.html" title="Operator that represents an intrinsic (built&#45;in) functor. " alt="" coords="638,410,845,649"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_number.html" title="Number Constant. " alt="" coords="869,447,1022,612"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_pack.html" title="Record pack operation. " alt="" coords="1046,447,1186,612"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_user_defined_operator.html" title="Operator that represents an extrinsic (user&#45;defined) functor. " alt="" coords="1211,403,1448,656"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="671,5,811,215"/>
+</map>

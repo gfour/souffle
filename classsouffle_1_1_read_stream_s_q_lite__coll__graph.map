@@ -1,0 +1,6 @@
+<map id="souffle::ReadStreamSQLite" name="souffle::ReadStreamSQLite">
+<area shape="rect" id="node2" href="$classsouffle_1_1_read_stream.html" title="{souffle::ReadStream\n||+ readAll()\l+ ReadStream()\l+ ~ReadStream()\l# readNextTuple()\l}" alt="" coords="181,505,332,627"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_symbol_mask.html" title="{souffle::SymbolMask\n||+ getArity()\l+ isSymbol()\l+ operator!=()\l+ operator==()\l+ print()\l+ setSymbol()\l+ SymbolMask()\l+ SymbolMask()\l}" alt="" coords="5,226,159,406"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="349,189,511,443"/>
+<area shape="rect" id="node9" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="379,5,481,127"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="ResolveAliasesTransformer.cpp" name="ResolveAliasesTransformer.cpp">
+<area shape="rect" id="node2" href="$_ast_argument_8h.html" title="AstArgument.h" alt="" coords="1670,603,1789,629"/>
+<area shape="rect" id="node3" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="2209,677,2298,704"/>
+<area shape="rect" id="node10" href="$_util_8h.html" title="Util.h" alt="" coords="1953,752,2007,779"/>
+<area shape="rect" id="node27" href="$_ast_clause_8h.html" title="AstClause.h" alt="" coords="1864,453,1963,480"/>
+<area shape="rect" id="node28" href="$_ast_literal_8h.html" title="AstLiteral.h" alt="" coords="2090,528,2185,555"/>
+<area shape="rect" id="node30" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="955,603,1120,629"/>
+<area shape="rect" id="node32" href="$_ast_program_8h.html" title="AstProgram.h" alt="" coords="2439,229,2550,256"/>
+<area shape="rect" id="node35" href="$_ast_relation_8h.html" title="AstRelation.h" alt="" coords="2609,379,2714,405"/>
+<area shape="rect" id="node43" href="$_ast_transforms_8h.html" title="AstTransforms.h" alt="" coords="4289,80,4415,107"/>
+<area shape="rect" id="node44" href="$_ast_translation_unit_8h.html" title="AstTranslationUnit.h" alt="" coords="2347,155,2496,181"/>
+<area shape="rect" id="node49" href="$_ast_visitor_8h.html" title="AstVisitor.h" alt="" coords="2521,155,2615,181"/>
+<area shape="rect" id="node4" href="$_ast_types_8h.html" title="AstTypes.h" alt="" coords="1787,752,1877,779"/>
+<area shape="rect" id="node25" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="1005,752,1112,779"/>
+<area shape="rect" id="node26" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="1563,677,1677,704"/>
+<area shape="rect" id="node7" href="$_src_location_8h.html" title="SrcLocation.h" alt="" coords="3955,752,4064,779"/>
+<area shape="rect" id="node5" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="1803,827,1901,853"/>
+<area shape="rect" id="node29" href="$_ast_relation_identifier_8h.html" title="AstRelationIdentifier.h" alt="" coords="2790,677,2949,704"/>
+<area shape="rect" id="node33" href="$_ast_component_8h.html" title="AstComponent.h" alt="" coords="2699,304,2829,331"/>
+<area shape="rect" id="node34" href="$_ast_i_o_8h.html" title="AstIO.h" alt="" coords="2840,603,2907,629"/>
+<area shape="rect" id="node37" href="$_ast_type_8h.html" title="AstType.h" alt="" coords="3493,603,3576,629"/>
+<area shape="rect" id="node39" href="$_ast_functor_declaration_8h.html" title="AstFunctorDeclaration.h" alt="" coords="3126,677,3301,704"/>
+<area shape="rect" id="node40" href="$_ast_pragma_8h.html" title="AstPragma.h" alt="" coords="3854,603,3959,629"/>
+<area shape="rect" id="node36" href="$_ast_attribute_8h.html" title="AstAttribute.h" alt="" coords="3093,528,3203,555"/>
+<area shape="rect" id="node38" href="$_relation_representation_8h.html" title="RelationRepresentation.h" alt="" coords="3326,453,3506,480"/>
+<area shape="rect" id="node41" href="$_ast_transformer_8h.html" title="AstTransformer.h" alt="" coords="4949,752,5080,779"/>
+<area shape="rect" id="node46" href="$_debug_report_8h.html" title="DebugReport.h" alt="" coords="4603,677,4720,704"/>
+<area shape="rect" id="node45" href="$_ast_analysis_8h.html" title="AstAnalysis.h" alt="" coords="4037,379,4144,405"/>
+<area shape="rect" id="node47" href="$_error_report_8h.html" title="ErrorReport.h" alt="" coords="4048,677,4155,704"/>
+</map>

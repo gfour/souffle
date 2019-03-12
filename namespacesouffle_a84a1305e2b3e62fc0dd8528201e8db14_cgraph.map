@@ -1,0 +1,8 @@
+<map id="souffle::isConstant" name="souffle::isConstant">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_intrinsic_operator.html#a2b8db64c7f681d4b55d0da887c52e9a2" title="Get argument values. " alt="" coords="209,5,415,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_user_defined_operator.html#a776c0ed71ad08936f68bc50613628dd8" title="Get argument values. " alt="" coords="193,71,431,112"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="261,137,363,163"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="499,46,643,73"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="479,129,664,171"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="712,137,868,163"/>
+</map>

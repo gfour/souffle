@@ -1,0 +1,12 @@
+<map id="souffle::RamAggregate::addCondition" name="souffle::RamAggregate::addCondition">
+<area shape="rect" id="node2" href="$namespacesouffle.html#af4175af2908fb3c227a35ba23e1c77aa" title="Get level of value (which for&#45;loop of a query) " alt="" coords="221,137,348,163"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_intrinsic_operator.html#a2b8db64c7f681d4b55d0da887c52e9a2" title="Get argument values. " alt="" coords="411,5,618,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_user_defined_operator.html#a776c0ed71ad08936f68bc50613628dd8" title="Get argument values. " alt="" coords="396,71,633,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_pack.html#a2156bff81f026325531755bba8c5bae8" title="Get arguments. " alt="" coords="399,137,630,163"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_element_access.html#a44ea48b193eff166a57ec06afd594295" title="Get identifier. " alt="" coords="415,188,614,229"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="463,254,566,281"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="702,78,846,105"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="711,195,837,222"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="681,247,867,288"/>
+<area shape="rect" id="node11" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="915,254,1071,281"/>
+</map>

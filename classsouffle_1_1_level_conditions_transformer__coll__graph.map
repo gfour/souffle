@@ -1,0 +1,6 @@
+<map id="souffle::LevelConditionsTransformer" name="souffle::LevelConditionsTransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_transformer.html" title="Abstract Transformer Class for RAM. " alt="" coords="5,329,183,451"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_condition_level_analysis.html" title="{souffle::RamConditionLevel\lAnalysis\n||+ getLevel()\l+ run()\l}" alt="" coords="207,337,402,443"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_analysis.html" title="Abstract class for a RAM Analysis. " alt="" coords="91,5,244,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_value_level_analysis.html" title="{souffle::RamValueLevelAnalysis\n||+ getLevel()\l+ run()\l}" alt="" coords="194,175,415,267"/>
+</map>

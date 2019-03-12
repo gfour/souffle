@@ -1,0 +1,17 @@
+<map id="souffle::isValidPermutation" name="souffle::isValidPermutation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Creates a clone of this AST sub&#45;structure. " alt="" coords="257,5,393,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#a9918f4fb19dd6f152d784512853b447a" title="Obtains a copy of the internally maintained body literals. " alt="" coords="257,71,393,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#ae9a1e5dd0a7c9781e23a7d9ececd6ae5" title="Return the atom that represents the head of the clause. " alt="" coords="257,136,393,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_variable.html#a298c753e0d5f0ca5c07536ca304d9086" title="souffle::AstVariable\l::getName" alt="" coords="253,201,397,243"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a84a1305e2b3e62fc0dd8528201e8db14" title="Determine whether a RAM value is a constant. " alt="" coords="255,267,395,294"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="244,322,407,349"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_node.html#a68e6e13cb8d1510e47087447a89cae83" title="Return source location of the AstNode. " alt="" coords="474,13,673,39"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_intrinsic_operator.html#a2b8db64c7f681d4b55d0da887c52e9a2" title="Get argument values. " alt="" coords="470,165,677,207"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_user_defined_operator.html#a776c0ed71ad08936f68bc50613628dd8" title="Get argument values. " alt="" coords="455,231,692,272"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="522,297,625,323"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="761,205,905,231"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="741,287,926,328"/>
+<area shape="rect" id="node13" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="975,294,1131,321"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#ab6ba329441fe5a6af5ebb8cde167d66f" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="492,349,655,391"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="740,352,927,393"/>
+</map>

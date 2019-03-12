@@ -1,0 +1,9 @@
+<map id="souffle::ExplainProvenance::ExplainProvenance" name="souffle::ExplainProvenance::ExplainProvenance">
+<area shape="rect" id="node2" href="$classsouffle_1_1_explain_provenance.html#a340ed47f995b5172ab9f346babc4bfd7" title="souffle::ExplainProvenance\l::explain" alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_explain_provenance.html#a64e3165acb1b13e24e5f1974d8c29cf2" title="souffle::ExplainProvenance\l::explainSubproof" alt="" coords="245,71,437,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_explain_provenance.html#aadcec6224703d8b59f7743ce97bf7f03" title="souffle::ExplainProvenance\l::getRule" alt="" coords="245,136,437,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_explain_provenance.html#af1571b104107b98bf2a2d73b984709f1" title="souffle::ExplainProvenance\l::measureRelation" alt="" coords="245,201,437,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_explain_provenance.html#a10fa5f6b1d6fac35938c21d9ee38c560" title="souffle::ExplainProvenance\l::printRulesJSON" alt="" coords="245,267,437,308"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_explain_provenance.html#ad4c8f25e1af26cca923b232b0ce3286d" title="souffle::ExplainProvenance\l::setup" alt="" coords="245,332,437,373"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_explain_provenance.html#af7e6836e8b236fb6561504ef441782db" title="souffle::ExplainProvenance\l::~ExplainProvenance" alt="" coords="245,397,437,439"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="souffle::CreateIndicesTransformer::createIndices" name="souffle::CreateIndicesTransformer::createIndices">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html#a8b93371163c782cbebc1ca966e8ff063" title="Apply the mapper to all child nodes. " alt="" coords="317,71,494,98"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="327,123,483,164"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_create_indices_transformer.html#aabbc83241681f4445b8ea09876636628" title="souffle::CreateIndicesTransformer\l::rewriteScan" alt="" coords="288,188,523,229"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="573,5,783,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation_search.html#a9c2d131e4937c9c79b22baf52af1e7d6" title="Get search relation. " alt="" coords="580,71,776,112"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="845,166,972,193"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_search.html#ad38884443c4c4eff4d86c196ec9cf436" title="Get identifier. " alt="" coords="605,188,751,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_relation_reference.html#a310c7cb619fe9fb63e1e7a8c49886548" title="Get arity. " alt="" coords="571,253,785,295"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_relation_reference.html#aa6a4a6b108c2257340e4d36ee7255239" title="Create clone. " alt="" coords="571,319,785,360"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="573,384,783,425"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="833,253,984,295"/>
+</map>

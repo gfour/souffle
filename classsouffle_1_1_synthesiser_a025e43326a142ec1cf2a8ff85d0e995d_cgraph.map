@@ -1,0 +1,51 @@
+<map id="souffle::Synthesiser::generateCode" name="souffle::Synthesiser::generateCode">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="493,5,651,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_synthesiser.html#a0d1c5b4e859494bbe8632bfc5963c9da" title="Generate code. " alt="" coords="229,1169,376,1210"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_translation_unit.html#a624f5ca466df2d9c6c2efba33c380ef6" title="souffle::RamTranslationUnit\l::getAnalysis" alt="" coords="475,57,669,98"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_relation_reference.html#a310c7cb619fe9fb63e1e7a8c49886548" title="Get arity. " alt="" coords="465,122,679,163"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_load.html#ad14dfc7c31d18aae365fc9841c89182f" title="souffle::RamLoad::getIODirectives" alt="" coords="453,1688,691,1715"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_store.html#a8a78ca83a2e71a71b906efee78942595" title="souffle::RamStore::\lgetIODirectives" alt="" coords="500,1739,644,1781"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ram_relation_reference.html#a5390236c4ae1be863073a7e71335a631" title="Get name. " alt="" coords="739,1805,953,1846"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ram_user_defined_operator.html#a698b19582a698f3f24a5145d79c9a609" title="Get operator name. " alt="" coords="453,1870,691,1911"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ram_relation_statement.html#a90bced58bf8a164af5da32e51c9e47c7" title="Get RAM relation. " alt="" coords="462,1935,682,1977"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_synthesiser.html#aadbaa095ca5910d4d3150a75eaeb9234" title="Get relation name. " alt="" coords="499,1805,645,1846"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ram_relation_reference.html#a3d50b578c82b165b8a31e68acef4ae16" title="Get symbol mask. " alt="" coords="465,2001,679,2042"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ram_user_defined_operator.html#ab098adbd1cf492ed22a06b42d86e2462" title="Get types of arguments. " alt="" coords="453,2066,691,2107"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ram_relation_reference.html#a99d41b112eab935df9500aac5a59fedb" title="Is temp relation. " alt="" coords="465,2131,679,2173"/>
+<area shape="rect" id="node38" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="525,2197,619,2224"/>
+<area shape="rect" id="node39" href="$namespacesouffle.html#a384e85f786c545758984fbf4c59e1016" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="491,2248,653,2275"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_synthesiser.html#a8ba1d77e098be9fc6975eaf6f65c83ee" title="Get relation struct definition. " alt="" coords="200,2298,405,2339"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ram_stratum.html#ad8cc52272f3adb90f8282baaa7aafbe5" title="Get stratum body. " alt="" coords="225,2363,380,2405"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ram_stratum.html#ae18088a4993b38f5b0578a2835b0bca6" title="Get stratum index. " alt="" coords="225,2429,380,2470"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="225,2494,381,2535"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ram_translation_unit.html#ac0266f20993c0557549c24e8b7542005" title="souffle::RamTranslationUnit\l::getP" alt="" coords="205,2559,400,2601"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ram_program.html#a9770e26c7c87a0aed4f2fda096cc4d08" title="Get subroutines. " alt="" coords="225,2625,381,2666"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ram_translation_unit.html#a575f705235d66d41cb889c984632a528" title="souffle::RamTranslationUnit\l::getSymbolTable" alt="" coords="205,2690,400,2731"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_synthesiser_relation.html#abefc5062827287288efa1acb16da85a9" title="Factory method to generate a SynthesiserRelation. " alt="" coords="204,627,401,669"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_symbol_table.html#a4f93dea7a8e4af02f28070548a652660" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="227,2807,379,2849"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_symbol_table.html#aedae4abdfc5f4d8aaa6fdd1ac3fb1f91" title="souffle::SymbolTable\l::size" alt="" coords="496,2778,648,2819"/>
+<area shape="rect" id="node50" href="$namespacesouffle.html#a7f93cdf21f1a24b593da6691dc892828" title="A generic factory for constraints of the form. " alt="" coords="255,2873,350,2900"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a8e3419b4e4df09a580063d2f078a3774" title="File extension, with all else removed. " alt="" coords="496,957,648,984"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_argument.html#abc89611dd3a92fa42d44f2bc3fc6aefc" title="Get argument number. " alt="" coords="489,1009,655,1050"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_intrinsic_operator.html#a5b40c2fb1521470aa112b7cd0be61a53" title="Get i&#45;th argument value. " alt="" coords="469,1074,675,1115"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_user_defined_operator.html#ad538d0eab62530db77f7b32d871add8b" title="Get i&#45;th argument value. " alt="" coords="453,1139,691,1181"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_pack.html#a2156bff81f026325531755bba8c5bae8" title="Get arguments. " alt="" coords="457,1205,687,1232"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_lookup.html#ae3511a9773191d0215a598871391ec5d" title="Get arity. " alt="" coords="499,1257,645,1298"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_loop.html#a55f00cba94b8aa938b1826356125407d" title="Get loop body. " alt="" coords="475,1323,669,1349"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_aggregate.html#afe195c97b9e6d447d71dc6500ad16c68" title="Get condition. " alt="" coords="488,1374,656,1415"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_query.html#a58df55643fcd160ff7ee2e578318444a" title="Get RAM condition. " alt="" coords="499,1439,645,1481"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_filter.html#acf2391dfc14ab81844f792625170ce29" title="Get condition. " alt="" coords="507,1505,637,1546"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_exit.html#a16ea2112f6604811f157a148070855ef" title="Get exit condition. " alt="" coords="465,1571,679,1597"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_number.html#aacb0691f5e91383df9a3b95726c00ef8" title="Get constant. " alt="" coords="495,1622,649,1663"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_element_access.html#a5a7fd799d4373f0249b7efb17b592793" title="Get element. " alt="" coords="473,187,671,229"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_swap.html#a3725766454000c9e8c626eb9ea765019" title="Get first relation. " alt="" coords="477,253,667,294"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_aggregate.html#adf6ca8436265616e90f1d700c9caeadf" title="Get aggregation function. " alt="" coords="488,318,656,359"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_search.html#ad38884443c4c4eff4d86c196ec9cf436" title="Get identifier. " alt="" coords="499,383,645,425"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ram_element_access.html#a44ea48b193eff166a57ec06afd594295" title="Get identifier. " alt="" coords="473,449,671,490"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ram_provenance_existence_check_analysis.html#a04b99684ba32251a8d8275ab7445f076" title="get key " alt="" coords="453,514,691,555"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ram_existence_check_analysis.html#a6f6f98b06fbdbd6b42268356fceb84b3" title="get key " alt="" coords="471,579,673,621"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ram_conjunction.html#aca066729cf6b299eba85e38215d23d45" title="Get left&#45;hand side of conjunction. " alt="" coords="484,645,660,686"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ram_constraint.html#a98b8628e14fd8d36246a511051b09b3c" title="Get left&#45;hand side. " alt="" coords="489,710,655,751"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ram_log_timer.html#ad449b1810f499cbbf8d17795682a66e9" title="get logging message " alt="" coords="492,775,652,817"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ram_debug_info.html#aea9e790de72d2af762d1a49eddb54dac" title="Get debugging message. " alt="" coords="489,841,655,882"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="souffle::LevelConditionsTransformer::getName" name="souffle::LevelConditionsTransformer::getName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_level_conditions_transformer.html#a19edc2fc7de4553f21114290d2f6b687" title="souffle::LevelConditions\lTransformer::levelConditions" alt="" coords="225,439,428,481"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="1303,71,1429,97"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_condition_level_analysis.html#a45a05c9f788d1a5fe2b139362a65ecb4" title="Get level. " alt="" coords="476,282,671,323"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ram_condition.html#a54f67f8136251030e958232ae1aa051a" title="Create clone. " alt="" coords="493,406,654,447"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ram_transformer.html#a09ebbf557165cbdebf5d95d5124f709b" title="Apply transformer. " alt="" coords="485,471,662,513"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="495,537,651,578"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ram_node.html#a8b93371163c782cbebc1ca966e8ff063" title="Apply the mapper to all child nodes. " alt="" coords="485,603,662,629"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_conjunction.html#aca066729cf6b299eba85e38215d23d45" title="Get left&#45;hand side of conjunction. " alt="" coords="741,253,917,294"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_conjunction.html#a71b5fcabc5d1f58d776c390eef40a76d" title="Get right&#45;hand side of conjunction. " alt="" coords="741,318,917,359"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_negation.html#afbcfd1bd6f274f6316e390dbb702b103" title="Get operand of negation. " alt="" coords="750,383,909,425"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_value_level_analysis.html#a176b7dc29438479d0737bd37c6c3072a" title="Get level. " alt="" coords="719,187,940,229"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ram_constraint.html#a98b8628e14fd8d36246a511051b09b3c" title="Get left&#45;hand side. " alt="" coords="746,57,913,98"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ram_constraint.html#abc07acc37644ad4879bc3c360b12a932" title="Get right&#45;hand side. " alt="" coords="746,122,913,163"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ram_abstract_existence_check.html#a036068d8893ba9e9b4a19a583f02bffc" title="Get arguments. " alt="" coords="999,406,1215,447"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_element_access.html#a44ea48b193eff166a57ec06afd594295" title="Get identifier. " alt="" coords="1007,66,1206,107"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_intrinsic_operator.html#a2b8db64c7f681d4b55d0da887c52e9a2" title="Get argument values. " alt="" coords="1003,187,1210,229"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="1055,136,1158,163"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_pack.html#a2156bff81f026325531755bba8c5bae8" title="Get arguments. " alt="" coords="991,253,1222,280"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ram_user_defined_operator.html#a776c0ed71ad08936f68bc50613628dd8" title="Get argument values. " alt="" coords="988,305,1225,346"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1294,283,1438,309"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="1273,129,1459,170"/>
+<area shape="rect" id="node14" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="1507,136,1663,163"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ram_transformer.html#a10a0d3a003094ad4a8de96b968d26e29" title="Transform RAM translation unit. " alt="" coords="741,501,918,542"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ram_translation_unit.html#adc388ca999ac2b1a8b584f517e60d930" title="souffle::RamTranslationUnit\l::invalidateAnalyses" alt="" coords="732,566,927,607"/>
+</map>

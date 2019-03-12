@@ -1,0 +1,12 @@
+<map id="souffle::unifyAtoms" name="souffle::unifyAtoms">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a11ba399d723b5f1135a35e47e51e1bad" title="Provides access to the list of arguments of this atom. " alt="" coords="197,5,425,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a08f3e2bc00f4340336a0f9a9dc4e9955" title="Reduces a vector of substitutions. " alt="" coords="215,92,408,119"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="967,45,1111,72"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a84a1305e2b3e62fc0dd8528201e8db14" title="Determine whether a RAM value is a constant. " alt="" coords="473,92,613,119"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a7f93cdf21f1a24b593da6691dc892828" title="A generic factory for constraints of the form. " alt="" coords="496,143,591,169"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_intrinsic_operator.html#a2b8db64c7f681d4b55d0da887c52e9a2" title="Get argument values. " alt="" coords="677,38,883,79"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_user_defined_operator.html#a776c0ed71ad08936f68bc50613628dd8" title="Get argument values. " alt="" coords="661,103,899,145"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="729,169,831,196"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="947,162,1132,203"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="1180,169,1336,196"/>
+</map>
